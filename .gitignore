@@ -10,3 +10,6 @@ dist-ssr/
 *.njsproj
 *.sln
 *.sw?
+
+.vercel
+.env*
